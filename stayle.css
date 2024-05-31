@@ -1,0 +1,74 @@
+.ss{
+    background-color: aquamarine;
+    color: black;
+    border: 3px solid red;
+    text-align: center;
+    border-radius: 20px;
+}
+.uu{
+    background-color: yellow;
+    color: black;
+}
+.ww{
+    font-size: 25px;
+    color: blue;
+}
+.tt{
+    color: red;
+    font-size: 20px;
+}
+.zz{
+    color: yellow;
+    font-size: 20px;
+}
+.mm{
+    color: green;
+    font-size: 20px;
+}
+.ii{
+    color: grey;
+    font-size: 20px;
+}
+
+table, tr, th, td{
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 35px;
+    color: white;
+    font-size: 20px;
+}
+table{
+    width: 930px;
+    
+}
+.kk{
+    background-color: red;
+    color: black;
+}
+.ly{
+    background-color: yellow;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    
+}
+.oo{
+    background-color: blueviolet;
+    color: black;
+}
+.hh{
+background-color: green;
+color: black;
+}
+.bb{
+    font-size: 20px;
+}
+button {
+    color: white;
+    background-color:green ;
+    width: 250px;
+    padding: 5px;
+    border-radius: 10px;
+    border-collapse: collapse;
+}
